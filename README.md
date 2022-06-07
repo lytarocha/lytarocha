@@ -1,4 +1,7 @@
-Ola eu sou Thalita Rocha 👋
+Olá eu sou Thalita Rocha! Привет, я Талита Роша ! 😊👩‍💻
+
+Atualmente estudando JS/HTML/CSS! 
+
 
 
 
@@ -17,6 +20,8 @@ Ola eu sou Thalita Rocha 👋
   </div>
   
   ##
+
+  
   
   <div> 
    <a href="https://instagram.com/_lytarocha_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
