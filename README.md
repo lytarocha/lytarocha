@@ -1,6 +1,6 @@
 Olá eu sou Thalita Rocha! Привет, я Талита Роша ! 😊👩‍💻
 
-Atualmente estudando JS/HTML/CSS! 
+Atualmente estudando JS/HTML/CSS/REACTJS! 
 
 
 
