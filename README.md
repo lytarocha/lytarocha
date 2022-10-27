@@ -1,3 +1,4 @@
+
 Olá eu sou Thalita Rocha! Привет, я Талита Роша ! 😊👩‍💻
 
 Atualmente estudando JS/HTML/CSS/REACTJS! 
@@ -17,6 +18,7 @@ Atualmente estudando JS/HTML/CSS/REACTJS!
   <img align="center" alt="LYTA-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="LYTA-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="LYTA-PYTHON" height="50" width="50" src="https://img.icons8.com/clouds/100/000000/python.png">
+  <img align="center" alt="LYTA-java" height="50" width="50"   src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-java-mobile-app-development-flaticons-lineal-color-flat-icons-4.png">
  
   </div>
   
