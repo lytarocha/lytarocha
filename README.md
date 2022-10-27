@@ -16,6 +16,7 @@ Atualmente estudando JS/HTML/CSS/REACTJS!
   <img align="center" alt="LYTA-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="LYTA-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="LYTA-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="LYTA-PYTHON" height="50" width="50" src="https://img.icons8.com/clouds/100/000000/python.png">
  
   </div>
   
